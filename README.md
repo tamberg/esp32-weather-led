@@ -15,7 +15,7 @@ ESP32-based weather-indicating multicolor LED
 - Type _esp32_ (by Espressif Systems)
 - Click _Install_ (newest version)
 
-## Uploading Code
+## Uploading code
 - Go to _Select other board and port..._
 - Select board _DOIT ESP32 DEVKIT V1_
 - Select port _COM3_ (or other)
