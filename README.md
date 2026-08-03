@@ -57,6 +57,7 @@ Initiated by [Kim](https://www.kimdoanquoc.studio) at [HomeMade 2026](https://me
           "main": "Light rain",
       ...
     ```
+
 - Consider using an online JSON pretty printer
 - Find the weather condition, e.g. the object with _"id": 500_
 - Note that this object is at index 0 of the _"weather"_ array
