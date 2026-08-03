@@ -39,30 +39,28 @@ Initiated by [Kim](https://www.kimdoanquoc.studio) at [HomeMade 2026](https://me
 
 ## Making an API request
 - Replace LAT, LON and API_KEY in this template URL (see [docs](https://openweathermap.org/api/one-call-4?collection=one_call_api))
-    ```
-    https://api.openweathermap.org/data/4.0/onecall/current?lat=LAT&lon=LON&appid=API_KEY
-    ```
-
+        ```
+        https://api.openweathermap.org/data/4.0/onecall/current?lat=LAT&lon=LON&appid=API_KEY
+        ```
 
 - Paste the modified URL into your browser address bar
 - Read the result, a document formatted in JSON
-    ```
-    {
-      "coord": {
-        "lon": ...,
-        "lat": ...
-      },
-      "weather": [
+        ```
         {
-          "id": 500,
-          "main": "Light rain",
-          ...
-    ```
-
+          "coord": {
+            "lon": ...,
+            "lat": ...
+          },
+          "weather": [
+            {
+              "id": 500,
+              "main": "Light rain",
+              ...
+        ```
 
 - Consider using an online JSON pretty printer
 - Find the weather condition, e.g. the object with _"id": 500_
-- Note that this object is at index 0 of the _"weather"_ array
+- Note that this object is at index _0_ of the _"weather"_ array
 
 ## Preparing the code
 - Open the [ESP32WeatherLED.ino](ESP32WeatherLED/ESP32_WeatherLED.ino) source code file in the Arduino IDE
