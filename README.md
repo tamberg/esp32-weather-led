@@ -48,8 +48,8 @@ Initiated by [Kim](https://www.kimdoanquoc.studio) at [HomeMade 2026](https://me
   ```
   {
     "coord": {
-      "lon": 0.000,
-      "lat": 0.000
+      "lon": ...,
+      "lat": ...
     },
     "weather": [
       {
@@ -64,7 +64,7 @@ Initiated by [Kim](https://www.kimdoanquoc.studio) at [HomeMade 2026](https://me
 
 - Consider using an online JSON pretty printer
 - Find the weather condition, e.g. the object with _"id": 500_
-- Note that this object is at index _0_ of the _"weather"_ array
+- Note that this object is placed at index _0_ of the _"weather"_ array
 
 ## Preparing the code
 - Open the [ESP32WeatherLED.ino](ESP32WeatherLED/ESP32_WeatherLED.ino) source code file in the Arduino IDE
