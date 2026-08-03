@@ -11,6 +11,7 @@ Initiated by [Kim](https://www.kimdoanquoc.studio) at [HomeMade 2026](https://me
 - DOIT ESP32 Devkit v1
 - Adafruit Neopixel Ring
 - Power regulator (L7805CV)
+- Capacitor (500–1000 µF)
 - Socket terminal (9-12V)
 - Wall adapter (9 - 12V)
 - SPDT switch (optional)
