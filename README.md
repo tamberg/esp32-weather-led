@@ -58,7 +58,7 @@ Initiated by [Kim](https://www.kimdoanquoc.studio) at [HomeMade 2026](https://me
       ...
     ```
 - Consider using an online JSON pretty printer
-- Find the weather condition, e.g. _"id": 500_ inside _"weather"_
+- Find the weather condition, e.g. the object with _"id": 500_ at index 0 of the _"weather"_ array
 
 ## Preparing the code
 - Open the [ESP32WeatherLED.ino](ESP32WeatherLED/ESP32_WeatherLED.ino) source code file in the Arduino IDE
