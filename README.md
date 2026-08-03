@@ -62,7 +62,7 @@ Initiated by [Kim](https://www.kimdoanquoc.studio) at [HomeMade 2026](https://me
   }
   ```
 
-- Consider using an online JSON pretty printer
+- Consider using a JSON online validator to prettify
 - Find the weather condition, e.g. the object with _"id": 500_
 - Note that this object is placed at index _0_ of the _"weather"_ array
 
