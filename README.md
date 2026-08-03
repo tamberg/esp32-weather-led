@@ -19,11 +19,16 @@ Initiated by [Kim](https://www.kimdoanquoc.studio) at [HomeMade 2026](https://me
 
 ## Getting an API key
 - Create an account at https://openweathermap.org
-- Get an API key allowing 1'000 calls per day (see [docs](https://openweathermap.org/api/one-call-4?collection=one_call_api) and [pricing](https://openweathermap.org/price))
-- Test the API by replacing LAT, LON and API_KEY in this template URL
+- Get a free API key allowing 1'000 calls per day (see [pricing](https://openweathermap.org/price))
+
+## Making an API request
+- Replace LAT, LON and API_KEY in this template URL (see [docs](https://openweathermap.org/api/one-call-4?collection=one_call_api))
   ```
   https://api.openweathermap.org/data/4.0/onecall/current?lat=LAT&lon=LON&appid=API_KEY
   ```
+- Paste the modified URL into your browser address bar
+- Read the result, a document in the JSON format
+- Find the weather condition, e.g. 500
 
 ## Uploading code
 - Go to _Select other board and port..._
