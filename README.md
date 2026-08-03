@@ -1,5 +1,7 @@
 # ESP32 Weather LED
-ESP32-based weather-indicating multicolor LED
+ESP32-based weather-indicating multicolor LED.
+
+Initiated by Kim.
 
 ## Wiring electrical components
 <img width="540" alt="weather-led" src="https://github.com/user-attachments/assets/f997916a-2d1d-4dcb-979e-e51696095284" />
