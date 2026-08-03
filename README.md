@@ -21,7 +21,7 @@ Initiated by [Kim](https://www.kimdoanquoc.studio) at [HomeMade 2026](https://me
 - ...
 
 ## Getting a weather API key
-- Create an account at https://openweathermap.org
+- Create a personal account at https://openweathermap.org
 - Get a free API key allowing 1'000 calls per day (see [pricing](https://openweathermap.org/price))
 
 ## Making an API request
