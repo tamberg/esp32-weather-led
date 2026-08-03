@@ -57,3 +57,12 @@ Initiated by [Kim](https://www.kimdoanquoc.studio) at [HomeMade 2026](https://me
 - Select board _DOIT ESP32 DEVKIT V1_
 - Select port _COM3_ (or similar)
 - Click _Sketch > Upload_ (or →)
+
+## Troubleshooting
+Possible causes for errors
+
+- Turned off Wi-Fi hotspot 
+- Invalid Wi-Fi credentials 
+- Invalid or expired API key
+- Changing weather conditions
+- Excess heat due to bright pixels
