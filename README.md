@@ -67,4 +67,5 @@ Possible causes for errors
 - Invalid Wi-Fi credentials 
 - Invalid or expired API key
 - Changing weather conditions
+- Bluescreen due to power surge
 - Excess heat due to bright pixels
