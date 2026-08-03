@@ -17,7 +17,10 @@ Initiated by [Kim](https://www.kimdoanquoc.studio) at [HomeMade 2026](https://me
 - Type _esp32_ (by Espressif Systems)
 - Click _Install_ (newest version)
 
-## Getting an API key
+## Installing Arduino libraries
+- ...
+
+## Getting a weather API key
 - Create an account at https://openweathermap.org
 - Get a free API key allowing 1'000 calls per day (see [pricing](https://openweathermap.org/price))
 
