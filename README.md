@@ -3,6 +3,15 @@ ESP32-based weather-indicating color LED.
 
 Initiated by [Kim](https://www.kimdoanquoc.studio) at [HomeMade 2026](https://mechatronicart.ch/homemade-summercamp-girlen-2026/).
 
+## Bill of materials (BOM)
+- Half breadboard
+- DOIT ESP32 Devkit v1
+- Adafruit Neopixel Ring
+- Power regulator (L7805CV)
+- Socket terminal (9-12V)
+- SPDT switch (optional)
+- Jumper wires
+
 ## Wiring electrical components
 <img width="540" alt="weather-led" src="https://github.com/user-attachments/assets/f997916a-2d1d-4dcb-979e-e51696095284" />
 
