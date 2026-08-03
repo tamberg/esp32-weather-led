@@ -19,8 +19,8 @@ Initiated by [Kim](https://www.kimdoanquoc.studio) at [HomeMade 2026](https://me
 
 ## Installing Arduino libraries
 - Go to _Sketch > Include Library > Manage Libraries..._
-- Find and install the _Adafruit JSON_ library
 - Find and install the _Adafruit Neopixel_ library
+- Find and install the _Adafruit JSON_ library
 
 ## Getting a weather API key
 - Create a personal account at https://openweathermap.org
