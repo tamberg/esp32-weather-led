@@ -39,9 +39,9 @@ Initiated by [Kim](https://www.kimdoanquoc.studio) at [HomeMade 2026](https://me
 
 ## Making an API request
 - Replace LAT, LON and API_KEY in this template URL (see [docs](https://openweathermap.org/api/one-call-4?collection=one_call_api))
-  ```
-  https://api.openweathermap.org/data/4.0/onecall/current?lat=LAT&lon=LON&appid=API_KEY
-  ```
+    ```
+    https://api.openweathermap.org/data/4.0/onecall/current?lat=LAT&lon=LON&appid=API_KEY
+    ```
 
 - Paste the modified URL into your browser address bar
 - Read the result, a document formatted in JSON
