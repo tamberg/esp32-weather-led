@@ -39,6 +39,7 @@ Initiated by [Kim](https://www.kimdoanquoc.studio) at [HomeMade 2026](https://me
 - Replace _LAT_, _LON_ and _API_KEY_ with your location and key
 
 ## Uploading the code
+- Connect the ESP32 board to your computer via USB
 - Go to _Select other board and port..._
 - Select board _DOIT ESP32 DEVKIT V1_
 - Select port _COM3_ (or similar)
