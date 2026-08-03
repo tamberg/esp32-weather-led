@@ -18,5 +18,5 @@ ESP32-based weather-indicating multicolor LED
 ## Uploading code
 - Go to _Select other board and port..._
 - Select board _DOIT ESP32 DEVKIT V1_
-- Select port _COM3_ (or other)
+- Select port _COM3_ (or similar)
 - Click _Sketch > Upload_ (or →)
