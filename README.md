@@ -27,7 +27,7 @@ Initiated by [Kim](https://www.kimdoanquoc.studio) at [HomeMade 2026](https://me
   https://api.openweathermap.org/data/4.0/onecall/current?lat=LAT&lon=LON&appid=API_KEY
   ```
 - Paste the modified URL into your browser address bar
-- Read the result, a document in the JSON format
+- Read the result, a document formatted in JSON
 - Find the weather condition, e.g. 500
 
 ## Uploading code
