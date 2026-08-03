@@ -19,7 +19,7 @@ Initiated by [Kim](https://www.kimdoanquoc.studio) at [HomeMade 2026](https://me
 
 ## Getting an API key
 - Create an account at https://openweathermap.org
-- Get an API key enabling 1k free calls per day (according to the [docs](https://openweathermap.org/api/one-call-4?collection=one_call_api))
+- Get an API key allowing 1'000 calls per day (see [docs](https://openweathermap.org/api/one-call-4?collection=one_call_api) and [pricing](https://openweathermap.org/price))
 - Test the API by replacing LAT, LON and API_KEY in this template URL
   ```
   https://api.openweathermap.org/data/4.0/onecall/current?lat=LAT&lon=LON&appid=API_KEY
