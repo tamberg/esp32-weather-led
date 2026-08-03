@@ -33,8 +33,12 @@ Initiated by [Kim](https://www.kimdoanquoc.studio) at [HomeMade 2026](https://me
 - Read the result, a document formatted in JSON
 - Find the weather condition, e.g. _"cond": 500_
 
-## Uploading code
+## Preparing the code
 - Open [ESP32_WeatherLED.ino](ESP32WeatherLED/ESP32_WeatherLED.ino) in the Arduino IDE
+- Replace _MY_SSID_ and _MY_PASSWORD_ with your Wi-Fi Credentials
+- Replace _LAT_, _LON_ and _API_KEY_ with your location and key
+
+## Uploading the code
 - Go to _Select other board and port..._
 - Select board _DOIT ESP32 DEVKIT V1_
 - Select port _COM3_ (or similar)
