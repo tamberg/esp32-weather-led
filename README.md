@@ -46,17 +46,21 @@ Initiated by [Kim](https://www.kimdoanquoc.studio) at [HomeMade 2026](https://me
 - Paste the modified URL into your browser address bar
 - Read the result, a document formatted in JSON
    ```
-   {
-     "coord": {
-     "lon": ...,
-     "lat": ...
-   },
-   "weather": [
-     {
-       "id": 500,
-       "main": "Light rain",
-       ...
-   ```
+{
+  "coord": {
+    "lon": 0.000,
+    "lat": 0.000
+  },
+  "weather": [
+    {
+      "id": 500,
+      "main": "Light rain",
+      ...
+    }
+  ],
+  ...
+}
+```
 
 - Consider using an online JSON pretty printer
 - Find the weather condition, e.g. the object with _"id": 500_
