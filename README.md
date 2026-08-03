@@ -6,7 +6,7 @@ Initiated by [Kim](https://www.kimdoanquoc.studio) at [HomeMade 2026](https://me
 ## Wiring electrical components
 <img width="540" alt="weather-led" src="https://github.com/user-attachments/assets/f997916a-2d1d-4dcb-979e-e51696095284" />
 
-## Setting up Arduino IDE
+## Setting up the Arduino IDE
 - Install the Arduino IDE (integrated development environment) 2.x from https://arduino.cc
 - Go to _File > Preferences > Additional board manager URLs_ and add this line:
     ```
@@ -18,7 +18,9 @@ Initiated by [Kim](https://www.kimdoanquoc.studio) at [HomeMade 2026](https://me
 - Click _Install_ (newest version)
 
 ## Installing Arduino libraries
-- ...
+- Go to _Sketch > Include Library > Manage Libraries..._
+- Add _Adafruit JSON_
+- Add _Adafruit Neopixel_
 
 ## Getting a weather API key
 - Create a personal account at https://openweathermap.org
