@@ -34,7 +34,7 @@ Initiated by [Kim](https://www.kimdoanquoc.studio) at [HomeMade 2026](https://me
 - Find the weather condition, e.g. _"cond": 500_
 
 ## Preparing the code
-- Open the [ESP32_WeatherLED.ino](ESP32WeatherLED/ESP32_WeatherLED.ino) source code in the Arduino IDE
+- Open the [ESP32WeatherLED.ino](ESP32WeatherLED/ESP32_WeatherLED.ino) source code file in the Arduino IDE
 - Replace _MY_SSID_ and _MY_PASSWORD_ with your Wi-Fi Credentials
 - Replace _LAT_, _LON_ and _API_KEY_ with your location and key
 
