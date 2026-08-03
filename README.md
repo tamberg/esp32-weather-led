@@ -6,7 +6,7 @@ ESP32-based weather-indicating multicolor LED
 
 ## Setting up Arduino IDE
 - Install the Arduino IDE 2.x from https://arduino.cc
-- File > Preferences > Additional board manager URLs
+- File > Preferences > Additional board manager URLs<br/>
     https://dl.espressif.com/dl/package_esp32_index.json
 
 ## Uploading Code
