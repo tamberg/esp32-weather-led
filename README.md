@@ -34,6 +34,7 @@ Initiated by [Kim](https://www.kimdoanquoc.studio) at [HomeMade 2026](https://me
 - Find the weather condition, e.g. _"cond": 500_
 
 ## Uploading code
+- Open [ESP32_WeatherLED.ino](ESP32WeatherLED/ESP32_WeatherLED.ino) in the Arduino IDE
 - Go to _Select other board and port..._
 - Select board _DOIT ESP32 DEVKIT V1_
 - Select port _COM3_ (or similar)
